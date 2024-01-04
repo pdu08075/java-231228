@@ -1,0 +1,15 @@
+package b_Chapter01;
+
+// 자바의 입츌력
+public class D_IO {
+
+	public static void main(String[] args) {
+		// 입출력
+//		입력 : 콘솔(console) 창을 통해 개발자로부터 입력을 받는 것
+//		출력 : 콘솔(console) 창으로 데이터를 출력하는 것
+		
+//		1. 출력
+//		
+	}
+
+}
